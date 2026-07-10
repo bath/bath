@@ -12,6 +12,7 @@ Software engineer, ~5 years, currently building payments and applied-AI tooling 
 
 ## Side projects
 
+- **[Voice PR](https://github.com/bath/voice-pr)** - Speech to text Chrome extension that using a Node.js server to route comments to an Claude Code harness for hands free code changes. Focuses on capturing user intent through speech and page interactions.
 - **recompile** — provenance-backed career store that just-in-time compiles a resume tailored to a specific job description, where every line traces back to something I actually did. Python, agent-driven.
 - **[t1000](https://github.com/bath-tub/t1000)** — a better Jira-ticket → GitHub-PR tool: scores and filters eligible tickets, then drives a headless coding agent to open draft PRs. Python, gh CLI, Jira API.
 - **[linkedin-job-collector](https://github.com/bath/linkedin-job-collector)** — scrolls a LinkedIn content search, captures posts, filters for genuine remote-SWE hiring roles, and emails new matches. Python, Playwright, SQLite, Claude.
