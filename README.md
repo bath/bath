@@ -1,6 +1,6 @@
 # Hi, I'm Miller 👋
 
-Software engineer, ~5 years, currently building payments and applied-AI tooling at [PayIt](https://payitgov.com). Backend by trade (Java, Go, Python), increasingly spending my time on AI agents. Kansas City–based and looking for early-stage startup teams.
+Software engineer, ~5 years, currently building payments and applied-AI tooling at [PayIt](https://payitgov.com). Backend by trade (Java, Go, Python), increasingly spending my time on AI agents. Kansas City–based and building out something new at [nectur.ai](https://nectur.ai)
 
 📍 Kansas City, MO · 🌐 [mzb.dev](https://mzb.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/millerbath) · ✉️ [millerzbath@gmail.com](mailto:millerzbath@gmail.com)
 
