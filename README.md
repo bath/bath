@@ -1,23 +1,24 @@
-# Hi, I'm Miller 👋
+# Miller Bath
 
-Software engineer, ~5 years, currently building payments and applied-AI tooling at [PayIt](https://payitgov.com). Backend by trade (Java, Go, Python), increasingly spending my time on AI agents. Kansas City–based and building out something new at [nectur.ai](https://nectur.ai)
+I build the reconstruction industry's number one agentic platform at [Kanapy](https://kanapy.com). Kansas City, MO.
 
-📍 Kansas City, MO · 🌐 [mzb.dev](https://mzb.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/millerbath) · ✉️ [millerzbath@gmail.com](mailto:millerzbath@gmail.com)
+**Now.** First engineering hire at Kanapy. Kanapy is for the people who put a building back after water, fire or storm damage. Since August 2026 I have rebuilt the product from an empty repository, and coding agents write most of the code.
 
-## What I work on
+**Next.** Agents that carry a loss from the first site visit to the final invoice, with the expert in control. Kanapy is hiring: send me a message on [X](https://x.com/millerbath).
 
-- **Payments platform** — Led a recurring-payment product zero → prod: 4 backend services, Kafka consumers, refund/cancellation policy. Shipped 4 weeks early; $15M+ processed.
-- **Applied AI / agent orchestration** — Helped build an internal AI agent orchestrator, then used it to migrate 100+ Java microservices to Java 25 in ~4 weeks. Built an internal LLM prompt-management system (FastAPI, LangChain) with immutable versioning + weighted A/B routing.
-- **Reliability** — Killed a prod OOM under a 6× traffic spike (batched DataLoaders, 2N→2 round-trips); eliminated dropped in-flight card transactions during K8s scale-down with SIGTERM-aware shutdown.
+## Hark
 
-## Side projects
+[Hark](https://hark.works) is private dictation for the Mac. Press F5, talk, press F5 again. The text is pasted where the cursor is. The speech model runs on the Mac: no cloud, no account.
 
-- **[Voice PR](https://github.com/bath/voice-pr)** - Speech to text Chrome extension that using a Node.js server to route comments to an Claude Code harness for hands free code changes. Focuses on capturing user intent through speech and page interactions.
-- **recompile** — provenance-backed career store that just-in-time compiles a resume tailored to a specific job description, where every line traces back to something I actually did. Python, agent-driven.
-- **[t1000](https://github.com/bath-tub/t1000)** — a better Jira-ticket → GitHub-PR tool: scores and filters eligible tickets, then drives a headless coding agent to open draft PRs. Python, gh CLI, Jira API.
-- **[linkedin-job-collector](https://github.com/bath/linkedin-job-collector)** — scrolls a LinkedIn content search, captures posts, filters for genuine remote-SWE hiring roles, and emails new matches. Python, Playwright, SQLite, Claude.
-- **slopify** — minimal Jira-ticket → GitHub-PR workflow with ticket scoring and eligibility filtering. Python, Textual TUI, Jira API.
+```sh
+brew install --cask bath/tap/hark
+```
 
-## Tech
+## Small tools
 
-Java · Go · Python · TypeScript · Kafka · GraphQL · Kubernetes · FastAPI · LangChain
+- [shepherd](https://github.com/bath/shepherd): file drop and titled tabs for Herdr, the terminal I run agents in.
+- [mm-mermaid](https://github.com/bath/mm-mermaid): copy a Mermaid diagram, type `mm`, get a PNG and an SVG.
+- [claude-code-statusline](https://github.com/bath/claude-code-statusline): sixteen status lines for Claude Code, in POSIX shell.
+- [skills](https://github.com/bath/skills): agent skills. The first proves that each path of a process ends in a known state.
+
+[mzb.dev](https://mzb.dev) · [X](https://x.com/millerbath) · [LinkedIn](https://www.linkedin.com/in/millerbath) · [Email](mailto:millerzbath@gmail.com)
